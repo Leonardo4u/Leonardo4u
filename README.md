@@ -2,21 +2,21 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Leonardo Gomes Giroti, tenho 20 anos e sou natural de Sorocaba(SP). Concluí o ensino médio no Senac Sorocaba, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi. Estou utilizando o GitHub para expressar minha entusiasmo pela tecnologia e compartilhar os meus progressos no aprendizado.
+Me chamo Leonardo Gomes Giroti, tenho 20 anos e sou natural de Sorocaba(SP). Concluí o ensino médio no Senac Sorocaba, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi. Estou utilizando o GitHub para expressar meu entusiasmo pela tecnologia e compartilhar os meus progressos no aprendizado.
 
 <p align="left">
     <a href="https://github.com/Leonardo4u?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Leonardo4u?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Leonardo4u?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&timestamp=1710000000"
         />
     </a>
     <a href="https://github.com/Leonardo4u?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Leonardo4u?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Leonardo4u?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&timestamp=1710000000"
         />
     </a>
 </p>
@@ -62,6 +62,13 @@ Me chamo Leonardo Gomes Giroti, tenho 20 anos e sou natural de Sorocaba(SP). Con
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
+    <img 
+        alt="C#"
+        title="C#" 
+        width="30px" 
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    />
 </p>
 
 <h3 align="center">- Softwares  💻 </h3>
@@ -80,13 +87,6 @@ Me chamo Leonardo Gomes Giroti, tenho 20 anos e sou natural de Sorocaba(SP). Con
         width="30px" 
         style="padding-right: 10px;"
         src="https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" 
-    />
-        <img 
-        alt="Canva"
-        title="Canva" 
-        width="30px" 
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"" 
     />
         <img 
         alt="Github"
