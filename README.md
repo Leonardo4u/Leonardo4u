@@ -147,13 +147,13 @@ Me chamo Leonardo Gomes Giroti, tenho 20 anos e sou natural de Sorocaba(SP). Con
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Leonardo4u&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Leonardo4u&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=3600" 
   />
   <br/>
   <br/>
     <img  
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo4u&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo4u&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=3600" 
   />
 </p>
